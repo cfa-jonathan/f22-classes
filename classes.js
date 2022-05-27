@@ -1,4 +1,4 @@
-// Step 1: Create a base class called ZooAnimal that can store the animal name, animal type, and adoption date. It can also print these details to the console when needed.
+// Step 1: Create a base class called ZooAnimal that can store the animal name, animal type, and adoption date. It can also print these details to the console when needed through a function named "printDetails".
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-// Step 3: Modify ZooAnimal to use a static variable in its constructor to track how many Zoo Animals have been adopted, and update that variable any time a new Zoo Animal is created. Also use a static method to add the ability to print this info to the console when needed. Because the "super" keyword was used earlier to utilize the ZooAnimal constructor, the static variable will be updated automatically.
+// Step 3: Modify ZooAnimal to use a static variable in its constructor to track how many Zoo Animals have been adopted, and update that variable any time a new Zoo Animal is created. Also use a static method to add the ability to print this info to the console when needed through a function named "printAmount". Because the "super" keyword was used earlier to utilize the ZooAnimal constructor, the static variable will be updated automatically.
 
 
 
